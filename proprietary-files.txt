@@ -133,6 +133,9 @@ odm/lib/vendor.oplus.hardware.performance-V1-ndk_platform.so
 # Audio firmware
 odm/firmware/tfa98xx.cnt
 
+# Audio (FX modules) - from cheetah-user 13 TQ2A.230405.003.E1 9802792 release-keys
+vendor/lib/soundfx/libspatialaudio.so|379b98b020729d05cad4e84202f42335b96bb755
+
 # Audio libraries
 vendor/lib/soundfx/libasphere.so
 vendor/lib/soundfx/libqcbassboost.so
